@@ -57,7 +57,7 @@ function getName(name){
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-not
+0
 undefined
 false
 NaN
